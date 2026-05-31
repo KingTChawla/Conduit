@@ -2,6 +2,8 @@
 
 **Hotspot your phone's internet — even when your carrier says no.**
 
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/KingTChawla/Conduit/releases/latest/download/Conduit.apk)
+
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 [![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![PRs: Not Accepted](https://img.shields.io/badge/PRs-not%20accepted-lightgrey.svg)](#)
