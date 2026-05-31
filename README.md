@@ -124,3 +124,7 @@ GPL-3.0. See [LICENSE](LICENSE).
 ## Disclaimer
 
 Bypassing carrier hotspot or tethering restrictions may violate your carrier's terms of service. Review your plan's terms before use. This software is provided as-is, with no warranty. Use at your own risk.
+
+---
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/KingTChawla/Conduit/releases/latest/download/Conduit.apk)
